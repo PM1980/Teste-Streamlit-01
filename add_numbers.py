@@ -19,7 +19,7 @@ def main():
     
     st.write("** Olá Mundo! **")
     st.markdown("**Olá Daniel!**")
-    st.write("Esse é o primeiro exemplo de um aplicativo web elaborado em Python e compartilhado utilizando o Streamlit. Desenvolvido por Paulo em 26-05-2023 com auxílio do Chat-GPT")
+    st.write("Esse é o primeiro exemplo de um aplicativo web elaborado em Python e compartilhado utilizando o Streamlit. Desenvolvido por Paulo em 26-05-2023 com auxílio do Chat-GPT.")
 
 if __name__ == '__main__':
     main()
