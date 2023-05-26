@@ -16,6 +16,8 @@ def main():
         st.success(f"The sum of {num1} and {num2} is: {result}")
     except ValueError:
         st.error("Please enter valid numbers.")
+    
+    st.write("Hello world")
 
 if __name__ == '__main__':
     main()
