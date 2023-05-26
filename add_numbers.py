@@ -17,8 +17,9 @@ def main():
     except ValueError:
         st.error("Please enter valid numbers.")
     
-    st.write("Olá Mundo!")
-    st.write(" *** Esse é o primeiro exemplo de um aplicativo web elaborado em Python e compartilhado utilizando o Streamlit *** ")
+    st.write("** Olá Mundo! **")
+    st.write("** Olá Daniel! **")
+    st.write("Esse é o primeiro exemplo de um aplicativo web elaborado em Python e compartilhado utilizando o Streamlit")
 
 if __name__ == '__main__':
     main()
