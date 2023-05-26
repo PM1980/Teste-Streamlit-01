@@ -18,7 +18,7 @@ def main():
         st.error("Please enter valid numbers.")
     
     st.write("** Olá Mundo! **")
-    st.markdown("** Olá Daniel! **")
+    st.markdown("**Olá Daniel!**")
     st.write("Esse é o primeiro exemplo de um aplicativo web elaborado em Python e compartilhado utilizando o Streamlit")
 
 if __name__ == '__main__':
